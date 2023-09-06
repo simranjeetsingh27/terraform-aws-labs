@@ -1,4 +1,4 @@
-region = "YOUR AWS REGION"
+region = "YOUR AWS REGIO"
 secret_key = "YOUR AWS SECRET KEY"
 access_key = "YOUR AWS ACCESS KEY ID"
 ssh_public_key = "YOUR SSH PUBLIC KEY (.pub)"
